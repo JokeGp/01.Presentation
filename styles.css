@@ -1,0 +1,31 @@
+.caja_principal{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.upCard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.downCard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 58%;
+}
+
+.profInfo{
+    text-align: center;
+    
+}
+
+.profile{
+    width: 400px;
+    height: 500px;
+}
